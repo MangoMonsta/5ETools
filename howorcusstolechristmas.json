@@ -104,11 +104,11 @@
 									"type": "image",
 									"href": {
 										"type": "internal",
-										"path": "adventure/LMoP/Cragmaw Hideout.jpg"
+										"path": "https://raw.githubusercontent.com/MangoMonsta/5ETools/master/elf.jpg"
 									},
-									"title": "Cragmaw Hideout",
-									"width": 4937,
-									"height": 3439
+									"title": "Crueltide Elf",
+									"width": 827,
+									"height": 917
 								}
 							]
 						},
@@ -606,7 +606,6 @@
 			"type": "P",
 			"weight": 1,
 			"rarity": "uncommon",
-			"reqAttune": false,
 			"source": "HOSC",
 			"entries": [
 				"When you drink this frosty dwarven beverage, you gain a climbing speed equal to your walking speed for 1 hour. During this time, you have advantage on Strength (Athletics) checks you make to climb or to prevent yourself from being disarmed."
@@ -639,7 +638,7 @@
 			"staff": true,
 			"source": "HOSC",
 			"entries": [
-				"This long white shepherd’s crook is striped with a band of red and functions as a +1 staff though you gain several additional benefits. First, while you are attuned to the cane, your breath is always minty fresh, and you can cast purify food and drink and neutralize poison three times per day each. The food or beverage you make is perfectly edible and has a slight mint flavoring."
+				"This long white shepherd’s crook is striped with a band of red and functions as a +1 staff though you gain several additional benefits. First, while you are attuned to the cane, your breath is always minty fresh, and you can cast {@spell purify food and drink} and {@spell protection from poison} three times per day each. The food or beverage you make is perfectly edible and has a slight mint flavoring."
 			]
 		},
 		{
